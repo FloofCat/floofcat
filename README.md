@@ -3,6 +3,7 @@
   <i>Just a 17 year old, who loves developing, coding, Minecraft and meeting new people! ❤️</i>
 
   <br />
+  <img alt="who checked me out lipbite" src="https://komarev.com/ghpvc/?username=auguwu" />
 </div>  
 <br>
 <br>
