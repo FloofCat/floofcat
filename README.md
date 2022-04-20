@@ -34,5 +34,5 @@
   <br>
    <br> 
 <img src="https://lanyard.cnrad.dev/api/363983542889349120?bg=333333&borderRadius=10px" />  
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=floofcat&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
