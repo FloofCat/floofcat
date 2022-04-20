@@ -32,7 +32,7 @@
   <br>
   You can always contact me on Twitter, or email or on my Discord! Thank you and have a lovely day! OwO
   <br>
-    
+   <br> 
 <img src="https://lanyard.cnrad.dev/api/363983542889349120?bg=333333&borderRadius=10px" />  
 
 
