@@ -2,8 +2,9 @@
   <h1>Floof 🧡</h1>
   <i>Just a 17 year old, who loves developing, coding, Minecraft and meeting new people! ❤️</i>
 
-  <br />
-  <img alt="who checked me out lipbite" src="https://komarev.com/ghpvc/?username=auguwu" />
+  <br>
+  <br>
+  <img alt="who checked me out lipbite" src="https://komarev.com/ghpvc/?username=floofcat" />
 </div>  
 <br>
 <br>
