@@ -2,6 +2,7 @@
   <h1>Floof 🧡</h1>
 </div>
   <i>Just a 17 year old, who loves developing, coding, Minecraft and meeting new people! ❤️</i>
+  <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="120">
   <br>
   <i><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> <i>Senior Engineer at <a href="https://www.capollomedia.com">Capollo Media</a></i>
     <br>
@@ -10,12 +11,13 @@
   <i><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> <i>Administrator for AvaJC</i>
   <br>
     <br>
+<div align='center'>
   <img alt="who checked me out lipbite" src="https://komarev.com/ghpvc/?username=floofcat" />
   <a href="https://wakatime.com/@15a707f0-e01c-42c8-b5fc-2f82e7b21c7f"><img src="https://wakatime.com/badge/user/15a707f0-e01c-42c8-b5fc-2f82e7b21c7f.svg" alt="Code Time UwU - April 15" /></a>
   <a href="https://twitter.com/intent/follow?screen_name=floo__f">
         <img src="https://img.shields.io/twitter/follow/floo__f?style=social&logo=twitter"
             alt="Birb App"></a>
-  
+    </div>
 
 <p align="center">
   <a href="https://skillicons.dev">
