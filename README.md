@@ -6,7 +6,9 @@
   <br>
   <img alt="who checked me out lipbite" src="https://komarev.com/ghpvc/?username=floofcat" />
   <a href="https://wakatime.com/@15a707f0-e01c-42c8-b5fc-2f82e7b21c7f"><img src="https://wakatime.com/badge/user/15a707f0-e01c-42c8-b5fc-2f82e7b21c7f.svg" alt="Code Time UwU - April 15" /></a>
-  [![Twitter: Floof](https://img.shields.io/twitter/follow/Floo__f?style=social)](https://twitter.com/Floo__f)
+  <a href="https://twitter.com/intent/follow?screen_name=floo__f">
+        <img src="https://img.shields.io/twitter/follow/floo__f?style=social&logo=twitter"
+            alt="Birb App"></a>
   
 </div> 
 <br>
