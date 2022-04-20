@@ -4,7 +4,9 @@
 
   <br>
   <br>
+  <a href='https://discord.com/users/363983542889349120' target='_blank'>
   <img alt="who checked me out lipbite" src="https://komarev.com/ghpvc/?username=floofcat" />
+  
 </div>  
 <br>
 <br>
