@@ -2,7 +2,7 @@
   <h1>Floof 🧡</h1>
 </div>
   <i>Just a 17 year old, who loves developing, coding, Minecraft and meeting new people! ❤️</i>
-  <img align='right' src="https://cdn.discordapp.com/attachments/870748925571792916/966399633888780298/Untitled1057_20220206015736-modified.png" width="320">
+  <img align='right' src="https://cdn.discordapp.com/attachments/870748925571792916/966399633888780298/Untitled1057_20220206015736-modified.png" width="250">
   <br>
   <i><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> <i>Senior Engineer at <a href="https://www.capollomedia.com">Capollo Media</a></i>
     <br>
