@@ -1,10 +1,12 @@
 <div align='center'>
   <h1>Floof 🧡</h1>
   <i>Just a 17 year old, who loves developing, coding, Minecraft and meeting new people! ❤️</i>
-  <i><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> <i>Senior Engineer at <a href="https://www.capollomedia.com">Capollo Media</a></i>
-  <i><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> <i>Developer at <a href="https://dotwavpresents.org/">DotWav Presents</a></i>
-  <i><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> <i>Administrator for AvaJC</i>
   <br>
+  <i><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> <i>Senior Engineer at <a href="https://www.capollomedia.com">Capollo Media</a></i>
+    <br>
+  <i><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> <i>Developer at <a href="https://dotwavpresents.org/">DotWav Presents</a></i>
+    <br>
+  <i><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> <i>Administrator for AvaJC</i>
   <br>
   <img alt="who checked me out lipbite" src="https://komarev.com/ghpvc/?username=floofcat" />
   <a href="https://wakatime.com/@15a707f0-e01c-42c8-b5fc-2f82e7b21c7f"><img src="https://wakatime.com/badge/user/15a707f0-e01c-42c8-b5fc-2f82e7b21c7f.svg" alt="Code Time UwU - April 15" /></a>
