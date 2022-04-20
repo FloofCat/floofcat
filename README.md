@@ -24,7 +24,7 @@
     <img src="https://skillicons.dev/icons?i=arduino,bash,c,cpp,discord,bots,eclipse,java,kotlin,mysql,py,pytorch,raspberrypi" />
   </a>
 </p>
-  
+    </i>
 <hr />
 <br>
   Hi! I'm Floof <b>(he/they)</b>, a full-stack developer, who is currently very interested into coding, with specialisation in computer architecture, cybersec and game development. Since the start   of 2020, I've been into Minecraft Development (specifically, Plugin & Fabric Mod Development) and have began development for several prominent organisations, events     and creators! Keep an eye out, there are some amazing projects coming soon!
@@ -32,5 +32,8 @@
   <br>
   You can always contact me on Twitter, or email or on my Discord! Thank you and have a lovely day! OwO
   <br>
-[![Discord Presence](https://lanyard.cnrad.dev/api/363983542889349120)](https://discord.com/users/363983542889349120)
+    
+    <div align='left'>
+  <img src="https://lanyard.cnrad.dev/api/363983542889349120?bg=333333&borderRadius=10px" />  
+</div>
 
