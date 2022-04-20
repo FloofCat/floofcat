@@ -7,7 +7,8 @@
   <img alt="who checked me out lipbite" src="https://komarev.com/ghpvc/?username=floofcat" />
   <a href="https://wakatime.com/@15a707f0-e01c-42c8-b5fc-2f82e7b21c7f"><img src="https://wakatime.com/badge/user/15a707f0-e01c-42c8-b5fc-2f82e7b21c7f.svg" alt="Code Time UwU - April 15" /></a>
   
-</div>  
+</div> 
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,bash,c,cpp,discord,bots,eclipse,java,kotlin,mysql,py,pytorch,raspberrypi" />
