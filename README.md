@@ -1,5 +1,6 @@
 <div align='center'>
   <h1>Floof 🧡</h1>
+</div>
   <i>Just a 17 year old, who loves developing, coding, Minecraft and meeting new people! ❤️</i>
   <br>
   <i><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> <i>Senior Engineer at <a href="https://www.capollomedia.com">Capollo Media</a></i>
@@ -15,7 +16,7 @@
         <img src="https://img.shields.io/twitter/follow/floo__f?style=social&logo=twitter"
             alt="Birb App"></a>
   
-</div> 
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,bash,c,cpp,discord,bots,eclipse,java,kotlin,mysql,py,pytorch,raspberrypi" />
