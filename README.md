@@ -18,9 +18,10 @@
   </a>
 </p>
 <br>
-<br>
   Hi! I'm Floof <b>(he/they)</b>, a full-stack developer, who is currently very interested into coding, with specialisation in computer architecture, cybersec and game development. Since the start   of 2020, I've been into Minecraft Development (specifically, Plugin & Fabric Mod Development) and have began development for several prominent organisations, events     and creators! Keep an eye out, there are some amazing projects coming soon!
   <br>
-  
+  - <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> <i>Senior Engineer at <a href="https://www.capollomedia.com">Capollo Media</a>
+  - <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> <i>Developer at <a href="https://dotwavpresents.org/">DotWav Presents</a>
+  - <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> <i>Administrator for AvaJC
   <br>
   You can always contact me on Twitter, or email or on my Discord! Thank you and have a lovely day! OwO
