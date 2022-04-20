@@ -8,7 +8,7 @@
 </div>  
 <br>
 <br>
-  Hi! I'm Floof, a full-stack developer, who is currently very interested into coding, with specialisation in computer architecture and game development. Since the start   of 2020, I've been into Minecraft Development (specifically, Plugin & Fabric Mod Development) and have began development for several prominent organisations, events     and creators! Keep an eye out, there are some amazing projects coming soon!
+  Hi! I'm Floof **(he/they)**, a full-stack developer, who is currently very interested into coding, with specialisation in computer architecture and game development. Since the start   of 2020, I've been into Minecraft Development (specifically, Plugin & Fabric Mod Development) and have began development for several prominent organisations, events     and creators! Keep an eye out, there are some amazing projects coming soon!
   <br>
   <br>
   You can always contact me on Twitter, or email or on my Discord! Thank you and have a lovely day! OwO
