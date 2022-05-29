@@ -10,6 +10,8 @@
     <br>
   <i><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> <i>Administrator for AvaJC</i>
   <br>
+    <i><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> <i><a href="https://github.com/FloofCat/floofcat/blob/main/PORT.md">Click for my Portfolio!</a></i>
+  <br>
     <br>
 <div align='center'>
   <img alt="who checked me out lipbite" src="https://komarev.com/ghpvc/?username=floofcat" />
