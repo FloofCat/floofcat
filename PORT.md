@@ -24,9 +24,17 @@
 </p>
 
 <hr />
-<br>
-<br>
 <div align='left'>
   <h3>Positions 💙</h3>
 </div>
+<hr />
+  <i><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> <i>Senior Engineer at <a href="https://www.capollomedia.com">Capollo Media</a></i>
+    <br>
+  <i><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> <i>Developer at <a href="https://dotwavpresents.org/">DotWav Presents</a></i>
+    <br>
+  <i><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> <i>Developer at <a href="https://ajfstech.com/">AJFS Tech (unaffliated to NFT Domain of the organisation)</a></i>
+    <br>
+  <i><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> <i>Administrator for AvaJC</i>
+  <br>
+
 
