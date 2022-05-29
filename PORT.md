@@ -34,7 +34,7 @@
     <br>
   <i><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> <i>Developer at <a href="https://ajfstech.com/">AJFS Tech (unaffliated to NFT Domain of the organisation)</a></i>
     <br>
-<img align='right' src="https://cdn.discordapp.com/attachments/870748925571792916/980362710191603722/2022-04-28_17.38.07-modified.png" width="250">    
+    
 <div align='left'>
   <h3>Experience & Events 💙</h3>
 </div>
@@ -56,6 +56,7 @@
     🌺<i> Ex - Discord Moderator for <a href="https://twitter.com/Sapnap">Sapnap</a> (Server Deleted)<br>
     </i>
     <br>
+<img align='right' src="https://cdn.discordapp.com/attachments/870748925571792916/980362710191603722/2022-04-28_17.38.07-modified.png" width="250">
 <div align='left'>
   <h3>Creators I've worked with 💙</h3>
 </div>
