@@ -11,4 +11,11 @@
         <img src="https://img.shields.io/twitter/follow/floo__f?style=social&logo=twitter"
             alt="Birb App"></a>
     </div>
+    
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,bash,c,cpp,discord,bots,eclipse,java,kotlin,mysql,py,pytorch,raspberrypi" />
+  </a>
+</p>
 
