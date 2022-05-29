@@ -4,7 +4,7 @@
 
 <i> Hi :3 I'm Floof, a 17 year old, full-stack developer, who loves anything with Tech and Science! ❤️ In love with computers and everything about them 😉 Currently hooked into Minecraft Plugin / Mod Development for various videos & projects. Love cats, dogs, music and talking to people! Very open-minded, and love to learn from others! </i>
 
-<img align='right' src="https://cdn.discordapp.com/attachments/870748925571792916/980350874977177620/47d949eaa9f98254f089a898a01e99fd-modified.png" width="250">
+<img align='right' src="https://cdn.discordapp.com/attachments/870748925571792916/980350874977177620/47d949eaa9f98254f089a898a01e99fd-modified.png" width="300">
 <br>
 <a href="https://wakatime.com/@15a707f0-e01c-42c8-b5fc-2f82e7b21c7f"><img src="https://wakatime.com/badge/user/15a707f0-e01c-42c8-b5fc-2f82e7b21c7f.svg" alt="Code Time UwU - April 15" /></a>
   <a href="https://twitter.com/intent/follow?screen_name=floo__f">
@@ -66,12 +66,22 @@
     💮<i> 150+ Creators from multiple SMPs and Events<br>
 <br>
   </div>
+<br>
+<br>
 <div align='left'>
   <h3>Contact & Stats 💙</h3>
 </div>
 <hr />
-    
-    Thank you for your time, and <a href=https://github.com/FloofCat">click here</a> to go back to my home page!
+  </i>
+  <a href="https://twitter.com/intent/follow?screen_name=floo__f">
+        <img src="https://img.shields.io/twitter/follow/floo__f?style=social&logo=twitter"
+            alt="Birb App"></a>
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+  
+  <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FloofCat)](https://git.io/streak-stats)
+  
+Thank you for your time, and <a href=https://github.com/FloofCat">click here</a> to go back to my home page!
     
 
     
