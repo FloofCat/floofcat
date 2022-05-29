@@ -80,6 +80,7 @@
   
   <br>
 <img src="https://lanyard.cnrad.dev/api/363983542889349120?bg=333333&borderRadius=10px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark" />
   
 Thank you for your time, and <a href=https://github.com/FloofCat">click here</a> to go back to my home page!
     
