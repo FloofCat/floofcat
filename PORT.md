@@ -79,7 +79,7 @@
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
   
   <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FloofCat)](https://git.io/streak-stats)
+<img src="https://lanyard.cnrad.dev/api/363983542889349120?bg=333333&borderRadius=10px" />
   
 Thank you for your time, and <a href=https://github.com/FloofCat">click here</a> to go back to my home page!
     
