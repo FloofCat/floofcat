@@ -29,6 +29,7 @@
 <br>
   Hi! I'm Floof <b>(he/they)</b>, a full-stack developer, who is currently very interested into coding, with specialisation in computer architecture, cybersec and game development. Since the start   of 2020, I've been into Minecraft Development (specifically, Plugin & Fabric Mod Development) and have began development for several prominent organisations, events     and creators! Keep an eye out, there are some amazing projects coming soon!
   <br>
+    You can view all my projects, positions & more through <a href="https://github.com/FloofCat/floofcat/blob/main/PORT.md">this portfolio</a> link! :3
   <br>
   You can always contact me on Twitter, or email or on my Discord! Thank you and have a lovely day! OwO
   <br>
