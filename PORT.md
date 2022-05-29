@@ -42,4 +42,5 @@
 </div>
 <hr />
     🎲<i> Developer for <a href="https://www.youtube.com/watch?v=4nBArTaUjzE">Twitch Rivals</a>, April 2021, in collaboration with <a href="https://twitter.com/EVNTgames">EVNT</a> and <a href="https://twitter.com/dotwavpresents">DotWavPresents</a>
+    <br>
     <img src="https://cdn.discordapp.com/attachments/870748925571792916/980355181759856670/unknown.png" width="500">
