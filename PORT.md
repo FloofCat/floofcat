@@ -45,6 +45,7 @@
     🎲<i> 3+ Years of Experience in Java, 1.5+ Years of Experience in Minecraft Development<br>
     </i>
    <br>
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=floo__f)](https://github.com/gazf/github-readme-twitter)
 <div align='left'>
   <h3>Other Positions & Developments 💙</h3>
 </div>
