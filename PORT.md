@@ -13,6 +13,10 @@
     </div>
     
 <br>
+<br>
+<div align='center'>
+  <h1>Experience in Languages 💙</h1>
+</div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,bash,c,cpp,discord,bots,eclipse,java,kotlin,mysql,py,pytorch,raspberrypi" />
