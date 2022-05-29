@@ -14,7 +14,7 @@
     
 <br>
 <br>
-<div align='center'>
+<div align='left'>
   <h3>Experience in Languages 💙</h3>
 </div>
 <p align="center">
