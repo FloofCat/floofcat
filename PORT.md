@@ -39,31 +39,31 @@
   <h3>Experience & Events 💙</h3>
 </div>
 <hr />
-    🎲<i> Developer for <a href="https://www.youtube.com/watch?v=4nBArTaUjzE">Twitch Rivals</a>, April 2021, in collaboration with <a href="https://twitter.com/EVNTgames">EVNT</a> and <a href="https://twitter.com/dotwavpresents">DotWavPresents</a>
-    🎲<i> Developer for <a href="https://twitter.com/BlockWarsEvent/status/1528044302844174339">Block Wars</a>
-    🎲<i> Developer for <a href="https://twitter.com/PandorasBoxMC">Pandora's Box</a>
-    🎲<i> 3+ Years of Experience in Java, 1.5+ Years of Experience in Minecraft Development
+    🎲<i> Developer for <a href="https://www.youtube.com/watch?v=4nBArTaUjzE">Twitch Rivals</a>, April 2021, in collaboration with <a href="https://twitter.com/EVNTgames">EVNT</a> and <a href="https://twitter.com/dotwavpresents">DotWavPresents</a><br>
+    🎲<i> Developer for <a href="https://twitter.com/BlockWarsEvent/status/1528044302844174339">Block Wars</a><br>
+    🎲<i> Developer for <a href="https://twitter.com/PandorasBoxMC">Pandora's Box</a><br>
+    🎲<i> 3+ Years of Experience in Java, 1.5+ Years of Experience in Minecraft Development<br>
     </i>
    <br>
 <div align='left'>
   <h3>Other Positions & Developments 💙</h3>
 </div>
 <hr />
-    🌺<i> Administrator for <a href="https://twitter.com/_AvaJC_">AvaJC</a>
-    🌺<i> Subreddit Moderator for <a href="https://www.reddit.com/r/Technoblade/">Technoblade</a>
-    🌺<i> Subreddit & Discord Moderator for <a href="https://discord.gg/blockwars">Block Wars</a>
-    🌺<i> Ex - Discord Moderator for <a href="https://twitter.com/Sapnap">Sapnap</a> (Server Deleted)
+    🌺<i> Administrator for <a href="https://twitter.com/_AvaJC_">AvaJC</a><br>
+    🌺<i> Subreddit Moderator for <a href="https://www.reddit.com/r/Technoblade/">Technoblade</a><br>
+    🌺<i> Subreddit & Discord Moderator for <a href="https://discord.gg/blockwars">Block Wars</a><br>
+    🌺<i> Ex - Discord Moderator for <a href="https://twitter.com/Sapnap">Sapnap</a> (Server Deleted)<br>
     </i>
     <br>
 <div align='left'>
   <h3>Creators I've worked with 💙</h3>
 </div>
 <hr />
-    💮<i> <a href="https://www.youtube.com/c/AvaJC">AvaJC</a>
-    💮<i> <a href="https://www.youtube.com/c/KIERandDEVGaming">Kier and Dev</a>
-    💮<i> <a href="https://www.youtube.com/channel/UCZ6Mbxc8rEBYueMD4cI71Dw">SpideyArmy
-    💮<i> 150+ Creators from multiple SMPs and Events
-
+    💮<i> <a href="https://www.youtube.com/c/AvaJC">AvaJC</a><br>
+    💮<i> <a href="https://www.youtube.com/c/KIERandDEVGaming">Kier and Dev</a><br>
+    💮<i> <a href="https://www.youtube.com/channel/UCZ6Mbxc8rEBYueMD4cI71Dw">SpideyArmy<br>
+    💮<i> 150+ Creators from multiple SMPs and Events<br>
+<br>
 <div align='left'>
   <h3>Contact & Stats 💙</h3>
 </div>
