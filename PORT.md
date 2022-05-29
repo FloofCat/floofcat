@@ -56,16 +56,16 @@
     🌺<i> Ex - Discord Moderator for <a href="https://twitter.com/Sapnap">Sapnap</a> (Server Deleted)<br>
     </i>
     <br>
-<img align='right' src="https://cdn.discordapp.com/attachments/870748925571792916/980362710191603722/2022-04-28_17.38.07-modified.png" width="250">
-<div align='left'>
+<img align='left' src="https://cdn.discordapp.com/attachments/870748925571792916/980362710191603722/2022-04-28_17.38.07-modified.png" width="250">
+<div align='right'>
   <h3>Creators I've worked with 💙</h3>
-</div>
 <hr />
     💮<i> <a href="https://www.youtube.com/c/AvaJC">AvaJC</a><br>
     💮<i> <a href="https://www.youtube.com/c/KIERandDEVGaming">Kier and Dev</a><br>
     💮<i> <a href="https://www.youtube.com/channel/UCZ6Mbxc8rEBYueMD4cI71Dw">SpideyArmy</a><br>
     💮<i> 150+ Creators from multiple SMPs and Events<br>
 <br>
+  </div>
 <div align='left'>
   <h3>Contact & Stats 💙</h3>
 </div>
