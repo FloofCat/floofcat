@@ -61,7 +61,7 @@
 <hr />
     💮<i> <a href="https://www.youtube.com/c/AvaJC">AvaJC</a><br>
     💮<i> <a href="https://www.youtube.com/c/KIERandDEVGaming">Kier and Dev</a><br>
-    💮<i> <a href="https://www.youtube.com/channel/UCZ6Mbxc8rEBYueMD4cI71Dw">SpideyArmy<br>
+    💮<i> <a href="https://www.youtube.com/channel/UCZ6Mbxc8rEBYueMD4cI71Dw">SpideyArmy</a><br>
     💮<i> 150+ Creators from multiple SMPs and Events<br>
 <br>
 <div align='left'>
