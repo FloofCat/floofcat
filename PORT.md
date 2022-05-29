@@ -66,6 +66,17 @@
     💮<i> 150+ Creators from multiple SMPs and Events<br>
 <br>
   </div>
+<div align='right'>
+  <h3>Skills Learnt 💙</h3>
+<hr />
+    🏹 Professionally Experienced in basic Java Features & Tools
+    🏹 Professionally Experienced in Spigot / Bukkit Development
+    🏹 Proficient in NMS Development
+    🏹 Experienced in SQL, MongoDB Database Management with Minecraft
+    🏹 Experienced in Redis, Maven and Gson
+    🏹 Intermediate in Lombok & Mojang API
+<br>
+  </div>
 <br>
 <br>
 <div align='left'>
