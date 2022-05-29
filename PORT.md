@@ -6,4 +6,9 @@
 
 <img align='right' src="https://cdn.discordapp.com/attachments/870748925571792916/980350874977177620/47d949eaa9f98254f089a898a01e99fd-modified.png" width="250">
 <br>
+<a href="https://wakatime.com/@15a707f0-e01c-42c8-b5fc-2f82e7b21c7f"><img src="https://wakatime.com/badge/user/15a707f0-e01c-42c8-b5fc-2f82e7b21c7f.svg" alt="Code Time UwU - April 15" /></a>
+  <a href="https://twitter.com/intent/follow?screen_name=floo__f">
+        <img src="https://img.shields.io/twitter/follow/floo__f?style=social&logo=twitter"
+            alt="Birb App"></a>
+    </div>
 
